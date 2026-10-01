@@ -1,0 +1,6 @@
+{
+  "name": "Sprout - Gamified Sustainability",
+  "description": "Gamified sustainability web application incentivizing green habits for youth with points, badges, levels, and real-world impact tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
